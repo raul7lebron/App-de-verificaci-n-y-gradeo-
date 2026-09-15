@@ -55,3 +55,10 @@ Igual que PSA, Beckett no asigna subgrados ni nota numérica a una carta con ind
 - **Falsificación**: tipografía, grosor de cartón, colores o acabado que no coinciden con ejemplares auténticos conocidos de esa edición.
 
 Si detectas cualquiera de estos indicios, priorízalo sobre la estimación de subgrados: la autenticidad y la elegibilidad para gradeo importan más que el número final.
+
+## Matices por tipo de carta
+
+- **Deportivas modernas (desde ~1980)**: el centrado de fábrica suele ser el subgrado que más frecuentemente impide llegar al Black Label, más que esquinas o bordes.
+- **TCG (Pokémon, Magic, Yu-Gi-Oh, etc.)**: el cartón más fino hace más frecuente el bending (curvatura) sutil, que a menudo solo se aprecia al tacto o con luz rasante — indícalo como limitación si solo dispones de fotos frontales.
+- **Foil / holo / refractor**: el subgrado de superficie es el más difícil de estimar por foto en estos acabados, ya que el patrón holográfico puede ocultar o simular micro-rayones; sé explícito en el informe sobre esta limitación.
+- **Vintage (BVG)**: aplica los criterios de BVG en vez de los estándares modernos — el desgaste por almacenamiento (manchas, ligera oxidación de bordes) es esperable en tarjetas de décadas de antigüedad y no debería tratarse igual que un daño por mal uso reciente.
