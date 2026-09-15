@@ -56,3 +56,10 @@ Estos defectos no bajan la nota — hacen que la carta **no reciba nota numéric
 - **Falsificación**: tipografía, textura del cartón, colores o acabado que no coinciden con ejemplares auténticos conocidos de esa edición.
 
 Si observas cualquiera de estos indicios, indícalo con prioridad sobre la nota estimada: la autenticidad y la elegibilidad para gradeo importan más que el número.
+
+## Matices por tipo de carta
+
+- **Deportivas modernas (desde ~1980)**: cartón de buena calidad y tiradas grandes — los defectos de centrado de fábrica son el problema más común para no llegar a PSA 10.
+- **TCG (Pokémon, Magic, Yu-Gi-Oh, etc.)**: el cartón suele ser más fino y flexible, lo que hace más frecuentes las micro-curvaturas (bending) invisibles a simple vista pero detectables al tacto; menciona esta limitación si solo trabajas con fotos.
+- **Foil / holo / textura especial**: el patrón holográfico dificulta distinguir un rayón real de un reflejo o un defecto de fábrica en el propio holograma — sé explícito en el informe sobre esta limitación en vez de asumir un rayón por defecto.
+- **Vintage (décadas de antigüedad, pre-1980 aprox.)**: el cartón centrado de fábrica era menos preciso y el desgaste por almacenamiento (manchas, oxidación de bordes) es habitual incluso sin mal uso; PSA suele ser algo más tolerante con el centrado en tarjetas vintage muy antiguas, pero no con daño estructural.
